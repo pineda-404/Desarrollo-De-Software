@@ -35,7 +35,20 @@ Monitereo consiste en recolectar, almacenar y visualizar metricas, estas metrica
 La filosofia DevOps consiste en trabajar en equipo, por lo tanto la experiencia de un desarrollador puede ayudar a que el trabajo en equipo vaya en armonia y sepa como responder cuando inevitablemente se originen conflictos entre los equipos. Un desarrollador experimentado ya esta familiariazo con las tecnologias y los problemas que pueden surgir mientras se usan, por lo tanto el puede lidiar y/o liderar contra esos problemas.
 
 ## 5)Describe cómo InnerSource puede ayudar a reducir silos dentro de una organización.
+InnerSource ayuda a reducir silos organizacionales al:
+- Fomentar una cultura de colaboración abierta y transparente.
+- Compartir conocimiento de manera transversal.
+- Permitir la contribución de múltiples equipos a los mismos proyectos.
+- Acelerar la innovación y mejorar la eficiencia organizacional.
+- Apoyar la implementación de DevOps y metodologías ágiles.
 
 ## 6)¿Qué rol juega la ingeniería de plataformas en mejorar la eficiencia y la experiencia del desarrollador?
-
+La ingeniería de plataformas mejora la eficiencia y la experiencia del desarrollador al:
+1) Automatizar procesos repetitivos como CI/CD, pruebas y despliegues, liberando tiempo para tareas más valiosas.
+2) Optimizar la infraestructura mediante herramientas como infraestructura como código (IaC), asegurando entornos consistentes y rápidos.
+3) Facilitar la colaboración entre equipos al ofrecer plataformas comunes y herramientas unificadas.
+4) Proveer herramientas de desarrollo eficientes que mejoran la productividad con interfaces intuitivas y flujos ágiles.
+5) Permitir escalabilidad y resiliencia, adaptándose dinámicamente a las necesidades del negocio.
+6) Reducir el tiempo de entrega mediante procesos automatizados y rápidos, agilizando el ciclo de desarrollo.
+7) Fomentar la cultura DevOps, facilitando la colaboración continua entre desarrollo y operaciones.
 
