@@ -27,8 +27,7 @@ git log --graph --oneline
 ```
 
 ### Imagen de resultado:
-
-> <img src="imgs/Screenshot 2025-04-14 003727.png"width="600">
+<img src="imgs/Screenshot 2025-04-14 003727.png" width="600">
 
 ## 2. Fusión No-fast-forward (`git merge --no-ff`)
 
