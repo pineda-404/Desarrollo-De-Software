@@ -51,7 +51,7 @@ git log --graph --oneline
 
 ### Imagen de resultado:
 
-![[Screenshot 2025-04-14 011537.png]]
+<img src="imgs/Screenshot 2025-04-14 011537.png" width="600">
 
 ---
 
@@ -82,7 +82,7 @@ git log --graph --oneline
 
 ### Imagen de resultado:
 
-![[Pasted image 20250414013241.png]]
+<img src="imgs/Pasted image 20250414013241.png" width="600">
 
 ---
 
@@ -108,7 +108,7 @@ git commit -m "....index.html"
 git merge --no-ff feature-update
 ```
 Se puede ver como al realizar el merge la terminal nos muestra el conflicto que hay
-![[Screenshot 2025-04-14 020623.png]]
+<img src="imgs/Screenshot 2025-04-14 020623.png" width="600">
 ### Resolución manual:
 
 Abrimos `index.html`  con un editor de texto, editamos y eliminamos los marcadores de conflicto y se deja la versión combinada.
@@ -123,7 +123,7 @@ git log --graph --oneline
 
 ### Imagen de resultado:
 
-![[Pasted image 20250414021635.png]]
+<img src="imgs/Pasted image 20250414021635.png" width="600">
 
 ---
 
@@ -164,15 +164,15 @@ git commit -m "Agregar caracteristica 3 en un commit"
 
 ### Imagen de resultado:
 `Merge ff`
-![[Screenshot 2025-04-14 023910.png]]
+<img src="imgs/Screenshot 2025-04-14 023910.png" width="600">
 Intento de `Merge no ff`, se puede ver el conflicto de querer realizar este comando
-![[Screenshot 2025-04-14 024449.png]]
+<img src="imgs/Screenshot 2025-04-14 024449.png" width="600">
 Se procede a solucionarlo de forma manual
-![[Screenshot 2025-04-14 024532.png]]
+<img src="imgs/Screenshot 2025-04-14 024532.png" width="600">
 `Merge squash` para la rama `feature-3`
-![[Screenshot 2025-04-14 025307.png]]
+<img src="imgs/Screenshot 2025-04-14 025307.png" width="600">
 Se puede ver como toda la rama `feature-3` se comprimió a un solo `commit`
-![[Screenshot 2025-04-14 030018.png]]
+<img src="imgs/Screenshot 2025-04-14 030018.png" width="600">
 ## 6. Fusiones automáticas y revertir fusiones
 
 ### Comandos ejecutados:
@@ -196,7 +196,7 @@ git commit -m "..."
 
 ### Imagen de resultado:
 
-![[Screenshot 2025-04-14 004702.png]]
+<img src="imgs/Screenshot 2025-04-14 004702.png" width="600">
 
 ---
 ## 7. Fusión remota en un repositorio colaborativo
@@ -222,7 +222,7 @@ git commit -m "..."
    ```
 
 ### Imagen de resultado:
-![[Screenshot 2025-04-14 003827.png]]
+<img src="imgs/Screenshot 2025-04-14 003827.png" width="600">
 **Preguntas:**
 - ¿Cómo cambia la estrategia de fusión cuando colaboras con otras personas en un repositorio remoto?
 -Se trabaja con PRs, y los merges se hacen con políticas definidas como no-ff, squash, etc.
